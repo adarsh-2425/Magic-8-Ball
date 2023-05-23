@@ -3,4 +3,4 @@
 
 <img src="https://cdn.thisiswhyimbroke.com/images/magic-8-ball.jpg" alt="Image description">
 
-<img src="https://stephenking.com/xf/proxy.php?image=https%3A%2F%2Fmuscleheaded.files.wordpress.com%2F2014%2F10%2Fpreg.jpg&hash=f8f7aefda7248b7ddfd746241b14ba2a.jpg" alt="Image description">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkz1MRSo7iiZ20a3536BB8cCS3Q6hfQCRxw&usqp=CAU" alt="Image description">
