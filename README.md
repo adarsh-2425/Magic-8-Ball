@@ -8,4 +8,4 @@
 
 <img src="https://www.memesmonkey.com/images/memesmonkey/s_06/060268b7457d807f4bf81dcdebba632a.jpeg" alt="Image description">
 
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkz1MRSo7iiZ20a3536BB8cCS3Q6hfQCRxw&usqp=CAU](https://www.memesmonkey.com/images/memesmonkey/s_9b/9b32a85cc5ff89e9c129aa2f5c949365.jpeg)" alt="Image description">
+<img src="https://www.memesmonkey.com/images/memesmonkey/s_9b/9b32a85cc5ff89e9c129aa2f5c949365.jpeg" alt="Image description">
