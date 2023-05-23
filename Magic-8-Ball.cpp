@@ -16,7 +16,7 @@ int main() {
     getline (cin, question);
     
     // Generate a random answer
-    answer = rand() % 10;
+    answer = rand() % 20;
     
     // Output the answer based on the random number
     switch(answer) {
@@ -50,6 +50,37 @@ int main() {
         case 9: 
             cout <<"Signs point to yes." << endl;
             break;
+        case 10: 
+            cout <<"Reply hazy, try again." << endl;
+            break;
+        case 11: 
+            cout <<"Ask again later." << endl;
+            break;
+        case 12: 
+            cout <<"Better not tell you now." << endl;
+            break;
+        case 13: 
+            cout <<"Cannot predict now." << endl;
+            break;
+        case 14: 
+            cout <<"Concentrate and ask again." << endl;
+            break;
+        case 15: 
+            cout <<"Don't count on it." << endl;
+            break;
+        case 16: 
+            cout <<"Outlook not so good." << endl;
+            break;
+        case 17: 
+            cout <<"My sources say no." << endl;
+            break;
+        case 18: 
+            cout <<"Very doubtful." << endl;
+            break;
+        case 19: 
+            cout <<"My reply is no." << endl;
+            break;
+        
         default: 
             cout <<"Invalid for this universe. Try in another universe" << endl;
             break;
